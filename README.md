@@ -25,12 +25,19 @@
 <!--- Where I got the images refs: https://dev.to/envoy_/150-badges-for-github-pnk --->
 <p align="center">
   <a href="mailto: noejbrown@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a> 
 <p>
   
-  <p align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/noejbrown/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
   </a> 
+<p>
+  
+<!--- Built with love image
 <p align="center">
+    <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" height=25>  
+  </a> 
+<p>
+--->
