@@ -23,11 +23,13 @@
 --->
 
 <!--- Where I got the images refs: https://dev.to/envoy_/150-badges-for-github-pnk --->
+<!--- Gmail
 <p align="center">
   <a href="mailto: noejbrown@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a> 
 <p>
+--->
   
 <p align="center">
   <a href="https://www.linkedin.com/in/noejbrown/">
