@@ -1,7 +1,7 @@
 <h2 align="center"> Hi, my name is Noë Brown </h2>
 
 <p align="center">
-  I am a recent grad of the University of North Carolina (UNC). I recieved my a Bachelor's Degree in Computer Science in spring of 2023. I am currently taking courses at UNC to advance my understanding in other subject interest and advanced computer science topics. I am also doing my own side projects, like app development, machine learning, and blockchain technologies. I previosuly interned at HashiCorp and worked in multiple research labs at UNC and Duke respectively. 
+  I am a recent grad of the University of North Carolina (UNC). I recieved my a Bachelor's Degree in Computer Science in spring of 2023. I am currently taking graduate courses at UNC to advance my understanding in other subject interest and advanced computer science topics. I am also doing my own side projects, like app development, machine learning, and blockchain technologies. I previosuly interned at HashiCorp and worked in multiple research labs at UNC and Duke respectively. 
   </p>
 
 <h2 align="center"> Languages </h2>
