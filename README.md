@@ -46,7 +46,7 @@
 <p>
 --->
 
-# Hi, I'm Noe 👋
+# Hi, I'm Noe 🐡
 
 I am a recent grad of the University of North Carolina, I recieved my a Bachelor's Degree in Computer Science. I previosuly interned at HashiCorp and worked in multiple research labs at UNC and Duke respectively. My research interest include blockchain, programing languages, and machine learning.
 
