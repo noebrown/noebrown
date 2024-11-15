@@ -48,7 +48,7 @@
 
 # Hi, I'm Noë 🐡
 
-I am a recent grad of the University of North Carolina, I recieved my a Bachelor's Degree in Computer Science. I previosuly interned at HashiCorp and worked in multiple research labs at UNC and Duke respectively. My interest include blockchain analytics, smart contracts, and ZKProofs.
+I am a recent grad of the University of North Carolina, I recieved my a Bachelor's Degree in Computer Science. I previosuly interned at HashiCorp, SuperWorld, and worked in multiple research labs at UNC and Duke respectively. My interest include blockchain analytics, smart contracts, and ZKProofs.
 
 ## About Me
 
@@ -61,9 +61,7 @@ I am a recent grad of the University of North Carolina, I recieved my a Bachelor
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <!--- https://github.com/Ileriayo/markdown-badges --->
 
 ## 📫 Get in Touch
