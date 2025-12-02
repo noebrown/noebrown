@@ -2,7 +2,7 @@
 <h2 align="center"> Hi, my name is Noë Brown </h2>
 
 <p align="center">
-  I am a recent grad of the University of North Carolina, I recieved my a Bachelor's Degree in Computer Science. I previosuly interned at HashiCorp and worked in multiple research labs at UNC and Duke respectively. 
+  I a graduate of the University of North Carolina at Chapel Hill, I recieved my a Bachelor's Degree in Computer Science. I previosuly interned at HashiCorp and worked in multiple research labs at UNC and Duke respectively. I currently work as an Engineer at CData Software.
   </p>
 
 <h2 align="center"> Languages </h2>
