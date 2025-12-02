@@ -66,7 +66,7 @@ I am a recent grad of the University of North Carolina, I recieved my a Bachelor
 
 ## 📫 Get in Touch
 
-- LinkedIn: [https://www.linkedin.com/in/noejbrown/](https://www.linkedin.com/in/noejbrown/)
+- Website: [ https://noebrown.github.io/]( https://noebrown.github.io/)
 - Email: noejbrown@gmail.com
 <!-- - Portfolio: [https://noejbrown.xyz](https://noejbrown.xyz) --->
 
