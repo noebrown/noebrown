@@ -48,12 +48,12 @@
 
 # Hi, I'm Noë 🐡
 
-I am a graduate of the University of North Carolina at Chapel Hill, I recieved my a Bachelor's Degree in Computer Science. I previosuly interned at HashiCorp and worked in multiple research labs at UNC and Duke respectively. I currently work as an Engineer at CData Software.
+I am a graduate of the University of North Carolina at Chapel Hill, I recieved my a Bachelor's Degree in Computer Science. I previosuly interned at HashiCorp and worked in multiple research labs at UNC and Duke respectively. I currently work as an engineer at CData Software.
 
 ## About Me
 
 - ⌨️ Software Engineer with a love for research and food trucks.
-- ⚙️ Enthusiastic about blockchain and blockchain protocols.
+- ⚙️ Enthusiastic about blockchain, blockchain protocols, and blockchain analytics.
 - 📑 Self-proclaimed lifelong learner, always exploring.
 
 ## 🔧 Technologies & Tools
