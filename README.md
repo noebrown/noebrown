@@ -48,20 +48,20 @@
 
 # Hi, I'm Noë 🐡
 
-I am a graduate of the University of North Carolina at Chapel Hill, I recieved my a Bachelor's Degree in Computer Science. I previosuly interned at HashiCorp and worked in multiple research labs at UNC and Duke respectively. I currently work as an engineer at CData Software.
+I am a graduate of the University of North Carolina at Chapel Hill, I recieved my a Bachelor's Degree in Computer Science. I previosuly interned at HashiCorp and worked in multiple research labs at UNC and Duke respectively. I currently work as an engineer at CData Software and pursuing a masters in mathematics.
 
 ## About Me
 
-- ⌨️ Software Engineer with a love for research and food trucks.
-- ⚙️ Enthusiastic about blockchain, blockchain protocols, and blockchain analytics.
+- ⌨️ Engineer with a love for research and food trucks.
+- ⚙️ Enthusiastic about all things data and blockchain. Big emphasis on blockchain analytics and blockchain usage analytics.
 - 📑 Self-proclaimed lifelong learner, always exploring.
 
-## 🔧 Technologies & Tools
+## 🔧 Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 <!--- https://github.com/Ileriayo/markdown-badges --->
 
 ## 📫 Get in Touch
